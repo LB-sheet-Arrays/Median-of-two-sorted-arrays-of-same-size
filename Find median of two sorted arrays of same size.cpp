@@ -96,7 +96,7 @@ int main()
 	}
 	else
 	{
-		//merging arrays first using 2 iterators
+		//merging arrays first using code used in merge two sorted arrays wala question
 		merge(a1,a2,n,n);
 		
 		//to check!
