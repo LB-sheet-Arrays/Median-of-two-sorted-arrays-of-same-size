@@ -11,6 +11,6 @@ The complexity should be O(log(n)). [[Divide and conquer use karna padega matlab
 https://media.geeksforgeeks.org/wp-content/cdn-uploads/median-of-two-arrays.jpg
 
 >> Approach 1: Merge 2 arrays using 2 iterators  TC = O(n+n)= O(2n)= O(n)
-               Median = (a1[(2*n)/2-1]+a2[(2*n)/2])/2
+               Median = (a1[n-1]+a2[0])/2
                
    
